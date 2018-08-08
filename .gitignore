@@ -1,0 +1,6 @@
+# my test
+
+vendor/
+.settings/
+.buildpath
+.project
